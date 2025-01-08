@@ -1,0 +1,7 @@
+./my_top:1: MAJOR:C-O1
+./src/display/display_processes.c:76: MINOR:C-L3
+./src/header/retrieve_infos.c:21: MINOR:C-L3
+./src/header/retrieve_infos.c:36: MINOR:C-L3
+./src/header/time.c:15: MINOR:C-L3
+./src/process/infos.c:16: MINOR:C-L3
+./src/signal/send_signal.c:17: MAJOR:C-F3
